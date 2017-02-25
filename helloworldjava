@@ -4,3 +4,10 @@ public class Helloworld{
         system.out.println("hello world");
     }
 }
+
+// 再次的实验一遍
+public class Helloworld{
+    public static void main(args[]){
+        system.out.println("hello world");
+    }
+}
